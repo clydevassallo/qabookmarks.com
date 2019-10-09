@@ -14,7 +14,7 @@
         "url": "<URL to project homepage>",
         "tags": [
           // Mention Platform
-          // ref: https://github.com/clyde.vassallo/qabookmarks.com/blob/master/data/platforms.json
+          // ref: https://github.com/clydevassallo/qabookmarks.com/blob/master/data/platforms.json
           "linux",
           "windows",
           "osx",
@@ -22,7 +22,7 @@
           "solaris",
 
           // Mention License
-          // ref: https://github.com/clyde.vassallo/qabookmarks.com/blob/master/data/licenses.json
+          // ref: https://github.com/clydevassallo/qabookmarks.com/blob/master/data/licenses.json
           "open-source",
           "free",
           "commercial",
@@ -30,7 +30,7 @@
           // And add tags related to this tool
           // Tags are grouped into topic
           // Cross verify if these tags belong to a topic
-          // ref: https://github.com/clyde.vassallo/qabookmarks.com/blob/master/data/topics.json
+          // ref: https://github.com/clydevassallo/qabookmarks.com/blob/master/data/topics.json
           "scm",
           "vcs",
           etc.

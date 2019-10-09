@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "mf-testms",
+    "name": "Testing Strategies in a Microservice Architecture",
+    "description": "Testing Strategies in a Microservice Architecture",
+    "url": "https://martinfowler.com/articles/microservice-testing/",
+    "tags": [
+      "microservice",
+      "article",
+      "martin fowler"
+    ]
+  }
+]

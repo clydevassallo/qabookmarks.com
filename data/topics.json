@@ -4,6 +4,11 @@
   "include_tags": [ "microservice" ]
 },
 {
+  "name": "Resiliency Testing",
+  "slug": "resiliency",
+  "include_tags": [ "resiliency" ]
+},
+{
   "name": "Security Testing",
   "slug": "security",
   "include_tags": [ "security" ]

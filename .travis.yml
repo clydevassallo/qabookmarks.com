@@ -13,6 +13,6 @@ deploy:
   api_key:
     secure: d/gGUhVBgk3IGOj0pzoEziRoNjUmX00F7t7da0b4E2Mw8H8zwY7qTEfj5N5+NNOekCvOMTr9oa14fsffKG07ue59nWmX/TvQt+QUyaKzITRKz1R73gSktjz2yn20P6JuByyyXDGaqQ7ZSDZHnWjqXE0ywywxxJ+Ve0BwuZw/5FA=
   on:
-    repo: clyde.vassallo/qabookmarks.com
+    repo: clydevassallo/qabookmarks.com
     branch: master
     tags: false
