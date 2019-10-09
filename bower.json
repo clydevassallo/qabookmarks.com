@@ -1,5 +1,5 @@
 {
-  "name" : "devops",
+  "name" : "qa",
   "version" : "0.0.1",
   "dependencies" : {
     "bourbon" : "3.1.8",
