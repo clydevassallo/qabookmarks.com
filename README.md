@@ -1,18 +1,14 @@
-# Devops Bookmarks
+# QA Bookmarks
 
-> To discover tools in the devops landscape.
+> To discover tools in the qa landscape.
 
 There are new awesome tools and frameworks being released everyday.
 This is an open and transparent attempt at aggregating all these tools
 and frameworks.
 
-## Deployment Status
-
-[![Build Status](https://snap-ci.com/devopsbookmarks/devopsbookmarks.com/branch/master/build_image)](https://snap-ci.com/devopsbookmarks/devopsbookmarks.com/branch/master)
-
 ## Contributing
 
-Refer to [CONTRIBUTING.md](https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/CONTRIBUTING.md)
+Refer to [CONTRIBUTING.md](https://github.com/clydevassallo/qabookmarks.com/blob/master/CONTRIBUTING.md)
 
 ## Development
 
@@ -23,6 +19,7 @@ Refer to [CONTRIBUTING.md](https://github.com/devopsbookmarks/devopsbookmarks.co
 
 ## Inspiration
 
+* http://www.devopsbookmarks.com/
 * http://www.unheap.com/
 * https://www.ruby-toolbox.com/
 * http://microjs.com/
