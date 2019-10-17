@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "pact",
+    "name": "Pact",
+    "description": "Pact is a code-first tool for testing HTTP and message integrations using consumer-driven contract tests.",
+    "tags": [
+      "linux",
+      "windows",
+      "macosx",
+      "ruby",
+      "open-source",
+      "contract",
+      "microservice"
+    ],
+    "url": "https://docs.pact.io"
+  }
+]

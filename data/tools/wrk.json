@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "wrk",
+    "name": "Wrk",
+    "description": "Wrk is an open source HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It is best suited for obtaining fast insights into the performace of web applications.",
+    "tags": [
+      "linux",
+      "c",
+      "open-source",
+      "performance"
+    ],
+    "url": "https://github.com/wg/wrk"
+  }
+]

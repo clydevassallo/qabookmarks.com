@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "mscodecoverage",
+    "name": "Microsoft Code Coverage",
+    "description": "Microsoft.CodeCoverage package brings infra for collecting code coverage from vstest.console.exe and \"dotnet test\".",
+    "tags": [
+      "windows",
+      ".net framework",
+      "open-source",
+      "coverage"
+    ],
+    "url": "https://www.nuget.org/packages/Microsoft.CodeCoverage/"
+  }
+]

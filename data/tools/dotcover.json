@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "dotcover",
+    "name": "dotCover",
+    "description": "JetBrains dotCover is a unit test runner and code coverage tool that integrates with common IDEs. It calculates and reports statement-level code coverage in applications targeting .NET Framework, .NET Core, or Mono.",
+    "tags": [
+      "windows",
+      ".net framework",
+      ".net core",
+      "open-source",
+      "coverage"
+    ],
+    "url": "https://www.jetbrains.com/dotcover/"
+  }
+]

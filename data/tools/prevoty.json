@@ -1,9 +1,9 @@
 [
   {
-    "slug": "prevoty",
-    "name": "Prevoty Application Monitoring & Protection (AMP)",
-    "description": "Prevoty enables DevOps to inject security into your web applications and web services. Protection is provided at runtime from within the application itself, and stays with the app regardless of deployment method (cloud, on-premises, etc).  Applications are protected against threats including XSS, SQLi, CSRF, command injection, etc. Works with Puppet, Chef, Ansible, Docker, Splunk, QRadar, ELK, and many others.",
-    "url": "https://prevoty.com/",
+    "slug": "impervarasp",
+    "name": "Imperva RASP",
+    "description": "Imperva RASP enables DevOps to inject security into your web applications and web services. Protection is provided at runtime from within the application itself, and stays with the app regardless of deployment method (cloud, on-premises, etc).  Applications are protected against threats including XSS, SQLi, CSRF, command injection, etc. Works with Puppet, Chef, Ansible, Docker, Splunk, QRadar, ELK, and many others.",
+    "url": "https://www.imperva.com/products/runtime-application-self-protection-rasp/",
     "tags": [
       "linux",
       "windows",
@@ -12,7 +12,7 @@
       "commercial",
       "go",
       "java",
-      "net",
+      ".net framework",
       "nodejs",
       "perl",
       "php",

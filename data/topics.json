@@ -20,4 +20,12 @@
   "name": "Continuous Integration & Delivery",
   "slug": "ci",
   "include_tags": [ "ci", "cd" ]
+}, {
+  "name": "Behaviour-Driven Development",
+  "slug": "bdd",
+  "include_tags": [ "bdd" ]
+}, {
+  "name": "Test Coverage",
+  "slug": "coverage",
+  "include_tags": [ "coverage" ]
 }]

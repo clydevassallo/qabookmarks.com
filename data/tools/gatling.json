@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "gatling",
+    "name": "Gatling",
+    "description": "Gatling is an open source load testing solution. Gatling is designed for continuous load testing and integrates with your development pipeline. Gatling includes a web recorder and colorful reports.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "java",
+      "open-source",
+      "performance"
+    ],
+    "url": "https://gatling.io/"
+  }
+]

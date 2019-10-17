@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "springcloudcontract",
+    "name": "Spring Cloud Contract",
+    "description": "Spring Cloud Contract is an umbrella project holding solutions that help users in successfully implementing the Consumer Driven Contracts approach. It is written in Java but supports other testing in other languages using YAML and Docker.",
+    "tags": [
+      "linux",
+      "windows",
+      "macosx",
+      "java",
+      "open-source",
+      "contract",
+      "microservice"
+    ],
+    "url": "https://spring.io/projects/spring-cloud-contract"
+  }
+]

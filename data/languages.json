@@ -27,10 +27,16 @@
   "slug": "java",
   "icon": "java"
 }, {
-  "name": ".NET",
-  "slug": "net",
+  "name": ".NET Framework",
+  "slug": ".net framework",
   "icon": "net"
-}, {
+}, 
+{
+  "name": ".NET Core",
+  "slug": ".net core",
+  "icon": "net"
+},
+{
   "name": "node.js",
   "slug": "nodejs",
   "icon": "nodejs"

@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "altcover",
+    "name": "altCover",
+    "description": "Instrumenting coverage tool for .net (framework 2.0+ and core) and Mono.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      ".net framework",
+      ".net core",
+      "open-source",
+      "coverage"
+    ],
+    "url": "https://github.com/SteveGilham/altcover"
+  }
+]

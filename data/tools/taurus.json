@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "taurus",
+    "name": "Taurus",
+    "description": "Taurus tool is an Open Source performance testing framework, providing a simple way to write automated performance tests using YAML and execute them in Docker. Beneath the hood, it relies of other performance testing frameworks to execute the tests.",
+    "tags": [
+      "linux",
+      "windows",
+      "macosx",
+      "java",
+      "open-source",
+      "performance"
+    ],
+    "url": "https://gettaurus.org"
+  }
+]
