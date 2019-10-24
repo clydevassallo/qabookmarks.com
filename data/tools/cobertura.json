@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "cobertura",
+    "name": "Cobertura",
+    "description": "Cobertura is a free Java tool that calculates the percentage of code accessed by tests. It can be used to identify which parts of your Java program are lacking test coverage. It is based on jcoverage.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      "java",
+      "open-source",
+      "coverage"
+    ],
+    "url": "https://cobertura.github.io/cobertura/"
+  }
+]

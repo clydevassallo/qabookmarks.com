@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "selenium",
+    "name": "Selenium",
+    "description": "Selenium is a portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages.",
+    "tags": [
+      "gui-web",
+      "windows",
+      "linux",
+      "macosx",
+      "open-source",
+      "java",
+      ".net core",
+      ".net framework",
+      "go",
+      "phyton",
+      "php",
+      "ruby",
+      "javascript"
+    ],
+    "url": "https://www.seleniumhq.org"
+  }
+]

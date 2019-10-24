@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "watir",
+    "name": "Watir",
+    "description": "Waitr is an open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text.",
+    "tags": [
+      "gui-web",
+      "windows",
+      "linux",
+      "macosx",
+      "open-source",
+      "ruby"
+    ],
+    "url": "http://watir.com/"
+  }
+]

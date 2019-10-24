@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "sahi",
+    "name": "Sahi",
+    "description": "Sahi is an automation and testing tool for web applications. Different from many other commercial testing tools, Sahi is an open source tool. As an automation tool, Sahi provides the facility of recording and play backing of scripts.",
+    "tags": [
+      "gui-web",
+      "gui-desktop",
+      "gui-mobile",
+      "windows",
+      "linux",
+      "macosx",
+      "open-source",
+      "java",
+      "ruby",
+      "javascript"
+    ],
+    "url": "https://sahipro.com/"
+  }
+]

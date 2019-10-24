@@ -28,4 +28,8 @@
   "name": "Test Coverage",
   "slug": "coverage",
   "include_tags": [ "coverage" ]
+}, {
+  "name": "GUI Testing",
+  "slug": "gui",
+  "include_tags": [ "gui-web", "gui-desktop", "gui-mobile" ]
 }]
