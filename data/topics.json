@@ -32,4 +32,8 @@
   "name": "GUI Testing",
   "slug": "gui",
   "include_tags": [ "gui-web", "gui-desktop", "gui-mobile" ]
+}, {
+  "name": "Infrastructure Testing",
+  "slug": "infra",
+  "include_tags": [ "infra" ]
 }]

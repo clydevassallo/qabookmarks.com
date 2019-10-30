@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "chefinspec",
+    "name": "Chef InSpec",
+    "description": "Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.",
+    "tags": [
+      "complaince",
+      "security",
+      "infra",
+      "ruby",
+      "linux",
+      "osx",
+      "windows",
+      "open-source"
+    ],
+    "url": "https://github.com/inspec/inspec"
+  }
+]

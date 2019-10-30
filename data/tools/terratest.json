@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "terratest",
+    "name": "Terratest",
+    "description": "Terratest is used to write automated acceptance tests against real infrastructure.",
+    "tags": [
+      "infra",
+      "go",
+      "linux",
+      "osx",
+      "windows",
+      "open-source"
+    ],
+    "url": "https://github.com/gruntwork-io/terratest"
+  }
+]
