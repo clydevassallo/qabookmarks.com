@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "wiremock",
+    "name": "WireMock",
+    "description": "WireMock is an open source service virtualization tool which allows the emulatation of HTTP-based APIs.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      "java",
+      "open-source",
+      "service-virtual"
+    ],
+    "url": "http://wiremock.org/",
+    "repo": "https://github.com/tomakehurst/wiremock"
+  }
+]

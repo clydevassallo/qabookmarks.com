@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "mountebank",
+    "name": "Mountebank",
+    "description": "Mountebank supports mock verification, stubbing with advanced predicates, JavaScript injection, and record-playback through proxying. It also supports extensions that allow you to build custom protocol implementations in the language of your choice.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      "ruby",
+      "java",
+      "javascript",
+      ".net framework",
+      ".net core",
+      "go",
+      "php",
+      "python",
+      "open-source",
+      "service-virtual"
+    ],
+    "url": "http://www.mbtest.org/",
+    "repo": "https://github.com/bbyars/mountebank"
+  }
+]

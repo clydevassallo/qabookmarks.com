@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "hoverfly",
+    "name": "Hoverly",
+    "description": "Hoverfly by SpectoLabs is a very lightweight, super quick and easy to use open source service virtualization/API simulation tool that is intended for developers and testers.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      ".net framework",
+      "java",
+      "python",
+      "open-source",
+      "service-virtual"
+    ],
+    "url": "https://hoverfly.io/",
+    "repo": "https://github.com/SpectoLabs/hoverfly"
+  }
+]

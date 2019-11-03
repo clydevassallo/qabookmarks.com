@@ -9,8 +9,7 @@
       "macosx",
       "java",
       "open-source",
-      "contract",
-      "microservice"
+      "contract"
     ],
     "url": "https://spring.io/projects/spring-cloud-contract"
   }

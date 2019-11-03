@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "wilma",
+    "name": "Wilma",
+    "description": "Wilma is an combination of a passive proxy and a service stub. It lies between software components, software services, micro-services, as a passive proxy, and traps the communication traffic between the software components.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      "java",
+      ".net framework",
+      "open-source",
+      "service-virtual"
+    ],
+    "url": "https://github.com/epam/Wilma",
+    "repo": "https://github.com/epam/Wilma"
+  }
+]

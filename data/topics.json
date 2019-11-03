@@ -1,7 +1,12 @@
 [{
   "name": "Microservice Testing",
   "slug": "microservice",
-  "include_tags": [ "microservice" ]
+  "include_tags": [ "microservice", "contract", "service-virtual" ]
+},
+{
+  "name": "Contract Testing",
+  "slug": "contract",
+  "include_tags": [ "contract" ]
 },
 {
   "name": "Resiliency Testing",
@@ -36,4 +41,8 @@
   "name": "Infrastructure Testing",
   "slug": "infra",
   "include_tags": [ "infra" ]
+}, {
+  "name": "Service Virtualization",
+  "slug": "service-virtualization",
+  "include_tags": [ "service-virtual" ]
 }]
