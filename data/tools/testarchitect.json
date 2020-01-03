@@ -1,0 +1,20 @@
+[
+    {
+      "slug": "testarchitect",
+      "name": "testarchitect",
+      "description": "TestArchitect is an integrated test automation platform that focuses on scaling up test automation coverage & productivity.",
+      "tags": [
+        "commercial",
+        "gui-web",
+        "api",
+        "codeless",
+        "windows",
+        "linux",
+        "macosx",
+        "python",
+        "java"
+      ],
+      "url": "https://www.testarchitect.com/"
+    }
+  ]
+  

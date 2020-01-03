@@ -1,0 +1,18 @@
+[
+    {
+      "slug": "eggplant",
+      "name": "eggplant",
+      "description": "Eggplant is a codeless black-box API and GUI test automation tool backed by an AI-based image matching technology.",
+      "tags": [
+        "commercial",
+        "gui-web",
+        "api",
+        "codeless",
+        "windows",
+        "linux",
+        "macosx"
+      ],
+      "url": "http://docs.testplant.com/eggplant-documentation-home.htm"
+    }
+  ]
+  

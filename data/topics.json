@@ -23,7 +23,7 @@
   "include_tags": [ "performance" ]
 }, {
   "name": "Continuous Integration & Delivery",
-  "slug": "ci",
+  "slug": "cicd",
   "include_tags": [ "ci", "cd" ]
 }, {
   "name": "Behaviour-Driven Development",
@@ -41,6 +41,10 @@
   "name": "Infrastructure Testing",
   "slug": "infra",
   "include_tags": [ "infra" ]
+}, {
+  "name": "Codeless Testing",
+  "slug": "codeless",
+  "include_tags": [ "codeless" ]
 }, {
   "name": "Service Virtualization",
   "slug": "service-virtualization",

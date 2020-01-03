@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "chaosmonkey",
+    "name": "Chaos Monkey",
+    "description": "Chaos Monkey randomly terminates virtual machine instances and containers that run inside of your production environment. Exposing engineers to failures more frequently incentivizes them to build resilient services.",
+    "tags": [
+      "windows",
+      "linux",
+      "osx",
+      "resiliency"
+    ],
+    "url": "https://netflix.github.io/chaosmonkey/",
+    "repo": "https://github.com/Netflix/chaosmonkey"
+  }
+]

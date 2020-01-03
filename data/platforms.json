@@ -10,4 +10,8 @@
   "name": "OSX",
   "slug": "osx",
   "icon": "fa fa-fw fa-apple"
+}, {
+  "name": "Cloud",
+  "slug": "cloud",
+  "icon": "fa fa-fw fa-cloud"
 }]
