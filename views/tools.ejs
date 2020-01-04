@@ -15,9 +15,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>QA Bookmarks</title>
-  <meta name="description" content="Discover the latest QA tools and frameworks">
-
+  <title><%= title %></title>
+  <meta name="description" content=><%= description %>>
   <link rel="stylesheet" media="all" href="<%= assetFingerprint('/stylesheets/application.css') %>">
 </head>
 <body>
@@ -30,6 +29,7 @@
     <% include _sidebar %>
 
     <div class="content">
+      <h1><%= title %></h1>
       <div class="content-grid">
         <% _u.each(tools, function(tool) { %>
           <% include _tool %>

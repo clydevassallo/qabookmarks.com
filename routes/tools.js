@@ -31,7 +31,21 @@ module.exports = function(req, res) {
            (selLanguages.length === 0 || _u.intersection(selLanguages, tool.tags).length > 0);
   });
 
+  var title = 'Testing tools, articles and frameworks';
+  if (selTopics.length > 0) {
+    title = selTopics.slice(0,3).map(topic => topic.charAt(0).toUpperCase() + topic.slice(1).toLowerCase()).join(', ') + ' | ' + title;
+  }
+
+  var description = 'Discover the latest QA';
+  if (selTopics.length > 0) {
+    description += ' ' + selTopics.join(', ');
+  }
+  description += 'tools, articles and frameworks';
+
+
   res.render('tools', {
+    title: title,
+    description: description,
     tools: tools,
     tags: tags,
     platforms: data.platforms,

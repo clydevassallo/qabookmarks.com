@@ -3,6 +3,9 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
     jshint: {
+      options: {
+        "esversion": 6
+      },
       dist: {
         files: {
           src: [ 'server.js', 'cluster.js', 'routes/**/*.js', 'data/**/*.js', 'data/**/*.json' ]
