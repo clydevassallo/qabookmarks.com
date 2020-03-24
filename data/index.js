@@ -2,12 +2,14 @@ var _u = require('underscore');
 var walk = require('walk');
 var fs = require('fs');
 
+var sessions = JSON.parse(fs.readFileSync(__dirname + '/sessions.json'));
 var topics = JSON.parse(fs.readFileSync(__dirname + '/topics.json'));
 var platforms = JSON.parse(fs.readFileSync(__dirname + '/platforms.json'));
 var licenses = JSON.parse(fs.readFileSync(__dirname + '/licenses.json'));
 var languages = JSON.parse(fs.readFileSync(__dirname + '/languages.json'));
 var tools = [];
 
+exports.sessions = _u.indexBy(sessions, 'slug');
 exports.topics = _u.indexBy(topics, 'slug');
 exports.platforms = _u.indexBy(platforms, 'slug');
 exports.licenses = _u.indexBy(licenses, 'slug');

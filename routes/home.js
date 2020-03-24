@@ -17,6 +17,7 @@ function extraUrlFor(tag, allTags) {
 module.exports = function(req, res) {
   res.render('home', {
     tags: [],
+    sessions: data.sessions,
     platforms: data.platforms,
     licenses: data.licenses,
     languages: data.languages,
