@@ -9,7 +9,8 @@
       "virt",
       "kubernetes",
       "cloud",
-       "go"
+       "go",
+       "ctf"
     ],
     "url": "https://argoproj.github.io/argo-cd"
   }

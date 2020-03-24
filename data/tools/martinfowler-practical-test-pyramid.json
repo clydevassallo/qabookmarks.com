@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "mf-practical-test-pyramid",
+    "name": "The Practical Test Pyramid",
+    "description": "Testing levels explained with Java Code examples.",
+    "url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+    "tags": [
+      "testing-levels",
+      "article",
+      "martin fowler",
+      "ctf"
+    ]
+  }
+]

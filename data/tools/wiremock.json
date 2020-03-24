@@ -9,7 +9,8 @@
       "osx",
       "java",
       "open-source",
-      "service-virtual"
+      "service-virtual",
+      "ctf"
     ],
     "url": "http://wiremock.org/",
     "repo": "https://github.com/tomakehurst/wiremock"

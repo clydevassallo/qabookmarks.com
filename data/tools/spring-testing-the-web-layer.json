@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "spring-testing-the-web-layer",
+    "name": "Testing the Web Layer",
+    "description": "A guide on how to writing integration tests for Spring controllers either using the TestRestTemplate or MockMvc.",
+    "tags": [
+       "ctf",
+       "java",
+       "article"
+    ],
+    "url": "https://spring.io/guides/gs/testing-web/"
+  }
+]

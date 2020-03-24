@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "baeldung-spring-boot-testing",
+    "name": "Spring Boot Testing",
+    "description": "An introductory article to testing Spring Boot Web Applications, explaining the different Spring testing annotations.",
+    "tags": [
+       "ctf",
+       "article"
+    ],
+    "url": "https://www.baeldung.com/spring-boot-testing"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "junit5",
+    "name": "JUnit 5",
+    "description": "JUnit 5 is an open source unit testing framework for the Java programming language. It is a complete rewrite of its predecessor and supports Java 8 langauge features including lambda functions.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "java",
+      "open-source",
+      "unit",
+      "ctf"
+    ],
+    "url": "https://junit.org/junit5/",
+    "repo": "https://github.com/junit-team/junit5/"
+  }
+]

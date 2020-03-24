@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "testcontainers",
+    "name": "Testcontainers",
+    "description": "Testcontainers is an open source Java library used in tests to provide lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "java",
+      "open-source",
+      "service-virtual",
+      "ctf"
+    ],
+    "url": "https://www.testcontainers.org/",
+    "repo": "https://github.com/testcontainers/testcontainers-java/"
+  }
+]

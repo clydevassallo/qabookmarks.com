@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "helpscout-testing-repositories",
+    "name": "Testing code that talks to the database",
+    "description": "An article on testing JPA repositories with tips for writing meaningful repository tests.",
+    "tags": [
+       "ctf",
+       "java",
+       "article"
+    ],
+    "url": "https://engineering.helpscout.com/testing-code-that-talks-to-the-database-7d15a5391fb9"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "mailhog",
+    "name": "MailHog",
+    "description": "MailHog is an email testing tool offering an SMTP server with mail data accessible through an HTTP API.",
+    "tags": [
+      "open-source",
+       "ctf"
+    ],
+    "url": "https://github.com/mailhog/MailHog"
+  }
+]

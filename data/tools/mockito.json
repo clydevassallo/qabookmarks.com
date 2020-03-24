@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "mockito",
+    "name": "Mockito",
+    "description": "Mockito is an open source mocking framework for the Java programming language. It allows the creation of test double objects in automated unit tests for the purpose of test-driven development or behavior-driven development.",
+    "tags": [
+      "linux",
+      "windows",
+      "osx",
+      "java",
+      "open-source",
+      "unit",
+      "mock",
+      "ctf"
+    ],
+    "url": "https://site.mockito.org/",
+    "repo": "https://github.com/mockito/mockito"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "reflectoring-spring-boot-web-controller-test",
+    "name": "Spring Boot Web Controller Test",
+    "description": "An article explaining the rationale behind testing Spring Boot Web Controllers at an Integration Testing level.",
+    "tags": [
+       "ctf",
+       "java",
+       "article"
+    ],
+    "url": "https://reflectoring.io/spring-boot-web-controller-test/"
+  }
+]
